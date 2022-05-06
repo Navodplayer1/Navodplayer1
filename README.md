@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Navodplayer1
+- 👋 Hi, I’m Navod Peiris
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me navodpeiris1234@gmail.com
 
 <!---
 Navodplayer1/Navodplayer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
